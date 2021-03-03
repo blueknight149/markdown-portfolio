@@ -1,10 +1,1 @@
-<b>Programming Languages I have used:</b>
-* <i>Python</i>
-* Java
-* VBA
-
-<b>Other skills:</b>
-* <i>Data Analysis</i>
-* Database Design
-* Web Design
-* Data Analysis
+My best skill in computer science would have to be **programming**. It is the one skill that I have used the most in my professional career. One of the ways that I have used programming is when I am writing _automation scripts_ to make performing my duties more efficient. This has allowed me to build confidence in my abilities as a programmer. Another skill that I have building is in the area of **data science**. I have been spending much of my job looking through _various datasets_ and _cleaning_ them so I can eventually build _visualizations_ that are used for reporting purposes.
