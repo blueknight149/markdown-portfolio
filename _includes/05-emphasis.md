@@ -1,1 +1,10 @@
-As a computer scientist, I have the most experience in the area of <b>programming</b>. It is the one skills I have utilized the most in my professional career. I have the most experience working with <i>Python</i>. It is a pretty straightforward language in my opinion. My other skill that I have been working on is <b>Data Analysis</b>. Much of my current job involves working with datasets and using tools such as <i>Tableau</i> to build visualizations that are used to answer questions about the data. When I am not programming or doing data analysis, I like to <b>produce my own music</b>, <b>cook</b>, and, when things settle down, <b>travel</b>.
+<b>Programming Languages I have used:</b>
+* <i>Python</i>
+* Java
+* VBA
+
+<b>Other skills:</b>
+* <i>Data Analysis</i>
+* Database Design
+* Web Design
+* Data Analysis
